@@ -67,13 +67,13 @@ List of Fruit:
 
 | ++ Item ++ | ++ Fruit Name ++ | ++ Origin ++ | ++ Price ++ | 
 
-        1 		          Coconut	      Vietnam	      2$
+      1	     	    Coconut	      Vietnam	      2$
+      
+      2              Orange   	      US	      3$
         
-        2 	          	Orange		      US		      3$
+      3               Apple	      Thailand	      4$
         
-        3 	           	Apple		      Thailand	    4$
-        
-        4            		Grape		      France	      6$
+      4   	      Grape	      France	      6$
 	
 To order, customer selects Item, for example: when customer selects item 1, the program shows:
 
@@ -85,7 +85,7 @@ After customer inputs quantity of fruit, the program shows message: Do you want 
 
  Product  | Quantity  | Price  | Amount
  
- Coconut       3	        2$    	6$
+ Coconut       3          2$       6$
  
 Total: 6$
 
