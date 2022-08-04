@@ -1,8 +1,11 @@
 Title 
+
   	Create a Java console program to manage students.
     
 Background Context
+
 Write a program to manage information of student. The program implements terminology of Object Oriented Programming (OOP) paradigm. OOP is one of the best choosing ways to design software program. 
+
 In this assignment, we will use ArrayList to store list of student. In fact, ArrayList is popular used to manipulate with data. ArrayList provides some useful methods, such as: add(), remove(), sort() ., etc.
 
 Program Specifications
