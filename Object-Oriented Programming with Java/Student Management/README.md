@@ -33,15 +33,24 @@ There are 4 functions in Student Management Screen, as bellow:
 Student name	Course
 
 Nguyen Van A	Java
+
 Nguyen Van A	Java
+
 Nguyen Van B	.Net
+
 Nguyen Van B	Java
 
+
  The report as below:
+ 
 Nguyen Van A | Java | 2
+
 Nguyen Van B | Java | 1
+
 Nguyen Van C | Java | 1
+
 
 Technical Requirements
 1. Using Object-Oriented programming style
-2. Use only core Java functions and classes.
+2. 
+3. Use only core Java functions and classes.
