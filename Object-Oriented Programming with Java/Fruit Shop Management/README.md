@@ -42,9 +42,9 @@ Customer: Marry Carie
 
 Product | Quantity | Price | Amount
 
-1. Apple       3	     1$   	3$
+1. Apple       3	1$   	3$
 
-2. Mango       2       2$      4$
+2. Mango       2       	2$      4$
 
 Total: 7$
 
@@ -65,11 +65,15 @@ Total: 13$
 
 List of Fruit:
 
-| ++ Item ++ | ++ Fruit Name ++ | ++ Origin ++ | ++ Price ++ |  	
-           1 		Coconut	             Vietnam	      2$
-           2 		Orange		               US		      3$
-           3 		Apple		             Thailand	      4$
-           4 		Grape		              France	      6$
+| ++ Item ++ | ++ Fruit Name ++ | ++ Origin ++ | ++ Price ++ |  
+
+           1 		Coconut	      Vietnam	      2$
+	   
+           2 		Orange	        US	      3$
+	   
+           3 		Apple	     Thailand	      4$
+	   
+           4 		Grape	       France	      6$
 	
 To order, customer selects Item, for example: when customer selects item 1, the program shows:
 
