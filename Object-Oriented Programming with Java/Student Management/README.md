@@ -31,6 +31,7 @@ There are 4 functions in Student Management Screen, as bellow:
 
 
 Student name	Course
+
 Nguyen Van A	Java
 Nguyen Van A	Java
 Nguyen Van B	.Net
